@@ -19,11 +19,10 @@
 
   * Came up with a few issues we might consider posting (after we sure they're actually issues/haven't been addressed yet).
 
-[comment]: <> (Things to keep track of for progress and end-of-semester presentation:
+<!-- (Things to keep track of for progress and end-of-semester presentation:
 How you went about things
 What you were able to accomplish
 How things went
-
 Document meetings
 Document things that you tried and did not work
-Document issues that you considered and rejected.)
+Document issues that you considered and rejected.) --!>
