@@ -3,7 +3,7 @@ Qutebrowser team's project page.
 
 ## Progress
 
-Check out what we have (and haven't) accomplished during our meetings [here](https://github.com/nyu-ossd-s18/qutebrowser-team/blob/master/Meeting%20Documentation.md).
+Check out what we have (and haven't) accomplished during our meetings [here](https://github.com/nyu-ossd-s18/qutebrowser-team/blob/master/meeting-minutes.md).
 
 ## Running Development Build
 ```
