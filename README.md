@@ -11,7 +11,7 @@ Check out the issues we have our eyes on/are currently working on [here](https:/
 
 ## Slack
 
-Check out our discussions on our [Slack channel](https://ossd-s18.slack.com/messages/C9WQHUW12/details/)
+Check out our discussions on our [Slack channel](https://ossd-s18.slack.com/messages/C9WQHUW12/details/).
 
 ## Running Development Build
 ```
