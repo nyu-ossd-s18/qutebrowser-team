@@ -15,9 +15,15 @@
   * Looked at issues with an easy label
 
     * Reviewed closed issues which had had pull requests accepted as a model to follow.
-    * Narrowed down and made a list of open issues which seemed approachable (*how? (add later)*).
+    * Narrowed down and made a list of open issues which seemed approachable (easy label, low priority, stale, beginner-friendly).
 
   * Came up with a few issues we might consider posting (after we sure they're actually issues/haven't been addressed yet).
+
+### Meeting 3: Monday Mar 26, 2018:
+  * Went through the issues we identified and had discussion re: how we might go about solving each one.
+  * Picked out first issue we wanted to focus on.
+  * Made plan / divided work to go through code base so that we can possibly resolve the issue.
+  * Took some time to confirm one of the issues we identified is a decent issue / has not been posted / made plan to post it.
 
 <!-- (Things to keep track of for progress and end-of-semester presentation:
 How you went about things
