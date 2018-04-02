@@ -59,7 +59,7 @@
 
   * Updated the projects page to reflect this week's milestones.
 
-    * See [Sprint 2 Task Board](https://github.com/nyu-ossd-s18/qutebrowser-team/projects/2) for this week's milestones (and progress))
+    * See [Sprint 2 Task Board](https://github.com/nyu-ossd-s18/qutebrowser-team/projects/3) for this week's milestones (and progress/lack thereof)).
 
 <!-- (Things to keep track of for progress and end-of-semester presentation:
 How you went about things
