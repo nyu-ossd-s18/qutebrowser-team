@@ -3,11 +3,11 @@ Qutebrowser team's project page.
 
 ## Progress
 
-Check out what we have (and haven't) accomplished during our meetings [here](https://github.com/nyu-ossd-s18/qutebrowser-team/blob/master/meeting-minutes.md).
+Check out what we have (and haven't) accomplished during our meetings [here](meeting-minutes.md).
 
 ## Issues
 
-Check out the issues we have our eyes on/are currently working on [here](https://github.com/nyu-ossd-s18/qutebrowser-team/blob/master/issues-to-consider.md).
+Check out the issues we've worked on/are currently working on [here](issues-worked-on.md), as well as others we have our eyes on [here](issues-to-consider.md).
 
 ## Slack
 
