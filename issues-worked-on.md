@@ -3,9 +3,9 @@
 ## In Progress:
 
 1. **[Documentation - Ubuntu 16.04 LTS and Tox #3799](https://github.com/qutebrowser/qutebrowser/issues/3799)**
-* **[Add favicon for `qute://` pages #3755](https://github.com/qutebrowser/qutebrowser/issues/3755)**
-* **[Multiple Search Engines, One Command #2699](https://github.com/qutebrowser/qutebrowser/issues/2699)**
-* **[Updating CONTRIBUTING documentation #2851](https://github.com/qutebrowser/qutebrowser/issues/2851)**
+2. **[Add favicon for `qute://` pages #3755](https://github.com/qutebrowser/qutebrowser/issues/3755)**
+3. **[Multiple Search Engines, One Command #2699](https://github.com/qutebrowser/qutebrowser/issues/2699)**
+4. **[Updating CONTRIBUTING documentation #2851](https://github.com/qutebrowser/qutebrowser/issues/2851)**
 
 ## Completed:
 
