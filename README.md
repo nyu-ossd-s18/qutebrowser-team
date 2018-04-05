@@ -5,6 +5,8 @@ Qutebrowser team's project page.
 
 Check out what we have (and haven't) accomplished during our meetings [here](meeting-minutes.md).
 
+You'll find our team fork [here](https://github.com/nyu-ossd-s18/qutebrowser).
+
 ## Issues
 
 Check out the issues we've worked on/are currently working on [here](issues-worked-on.md), as well as others we have our eyes on [here](issues-to-consider.md).
