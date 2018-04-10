@@ -13,5 +13,6 @@
 2. *[Tab-take should not show the tabs in current window #3800](https://github.com/qutebrowser/qutebrowser/issues/3800)*  
     * Issue (bug) submitted, self-assigned by maintainer.
 3. ***[Documentation - Ubuntu 16.04 LTS and Tox #3799](https://github.com/qutebrowser/qutebrowser/issues/3799)***
+4. **[show hint at the bottom of link out of frame #3827](https://github.com/qutebrowser/qutebrowser/issues/3810)
 
 *Italics = Submitted by us.*
