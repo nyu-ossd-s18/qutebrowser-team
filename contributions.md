@@ -8,6 +8,7 @@ Issues worked on:
 4. ***[Using False-Click For The Clicking With Hint](https://github.com/qutebrowser/qutebrowser/pull/3827)***
     * The issue was stated in Wentao's PR
 5. **[Full Screen Command Not Working](https://github.com/qutebrowser/qutebrowser/issues/3850)**
+    * Issue was closed but we think prematurely 
 
 ## Completed:
 
