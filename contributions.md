@@ -7,6 +7,8 @@ Issues worked on:
 3. **[Updating CONTRIBUTING documentation #2851](https://github.com/qutebrowser/qutebrowser/issues/2851)**
 4. ***[Using False-Click For The Clicking With Hint](https://github.com/qutebrowser/qutebrowser/pull/3827)***
     * The issue was stated in Wentao's PR
+5. **[Full Screen Command Not Working](https://github.com/qutebrowser/qutebrowser/issues/3850)**
+
 ## Completed:
 
 1. ***[Added documentation need for running development builds #3798](https://github.com/qutebrowser/qutebrowser/issues/3795)***
