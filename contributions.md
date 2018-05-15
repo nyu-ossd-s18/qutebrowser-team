@@ -2,25 +2,18 @@ The team has been bad about pushing commits / keeping this up-to-date, sorry! Ha
 
 Issues worked on:
 
-1. **[Add favicon for `qute://` pages #3755](https://github.com/qutebrowser/qutebrowser/issues/3755)**
-2. **[Multiple Search Engines, One Command #2699](https://github.com/qutebrowser/qutebrowser/issues/2699)**
-3. **[Updating CONTRIBUTING documentation #2851](https://github.com/qutebrowser/qutebrowser/issues/2851)**
-4. ***[Using False-Click For The Clicking With Hint](https://github.com/qutebrowser/qutebrowser/pull/3827)***
-    * The issue was stated in Wentao's PR
-5. **[Full Screen Command Not Working](https://github.com/qutebrowser/qutebrowser/issues/3850)**
-    * Issue was closed but we think prematurely 
-
-## Completed:
-
-1. ***[Added documentation need for running development builds #3798](https://github.com/qutebrowser/qutebrowser/issues/3795)***
-     * Issue + pull request submitted, awaiting review.
-2. ***[Tab-take should not show the tabs in current window #3800](https://github.com/qutebrowser/qutebrowser/issues/3800)***
-    * Issue (bug) submitted, self-assigned by maintainer.
-3. ***[Documentation - Ubuntu 16.04 LTS and Tox #3799](https://github.com/qutebrowser/qutebrowser/issues/3799)***
-4. **[Show Hint At The Bottom Of Link Out Of Frame #3827](https://github.com/qutebrowser/qutebrowser/issues/3810)**
-5. **[Feature Request: Bind number row keys to tabs #3817](https://github.com/qutebrowser/qutebrowser/issues/3817)**
-
-*Italics = Submitted by us.*
+|  ﻿  |                                                             Issue                                                             |                                                                                                               Comment                                                                                                              |                                                Result                                                |    Worked on    |
+|:--:|:-----------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:---------------:|
+|  1 |              **[Add favicon for `qute://` pages #3755](https://github.com/qutebrowser/qutebrowser/issues/3755)**             |          Worked on, but not completed. Ended up being very difficult to find the dependencies / how the crucial ode interacted with other parts of the code or resources in order to trigger action and resolve the issue.         |                                       Still a work in progress.                                      |       Juan, Julian      |
+|  2 |            **[Multiple Search Engines, One Command #2699](https://github.com/qutebrowser/qutebrowser/issues/2699)**          |                                         Worked on. Mostly same as above. It was somewhat easy to start, but the solutions we kept coming up with fell short.                                          |                                       Still a work in progress.                                      | Julian, Juan |
+|  3 |                  [Show hint when pictures out frame](https://github.com/qutebrowser/qutebrowser/issues/3810)                 |                                                               Worked on. Successful, issue seems to be resolved, so pull request submitted.                                                               | Completed, pull request submitted. See [#3827](https://github.com/qutebrowser/qutebrowser/pull/3827) |      Wentao     |
+|  4 |            **[Updating CONTRIBUTING documentation #2851](https://github.com/qutebrowser/qutebrowser/issues/2851)**           | Seemed like a good, code-light introduction to the project. After getting feedback, it was clear that we'd have to do more research in order to fulfill the contributions they were seeking (e.g., regarding tox, no familiarity). |                                             Put on hold.                                             |                 |
+|  5 |            * [Add a versions.txt to windows releases #1212](https://github.com/qutebrowser/qutebrowser/issues/1212)           |                        Considered this issue. Seemed pretty easy to get to work on, but by that time we had already found our own issues or been drawn to bigger issues, and so didn't end up working on it.                       |                                      Considered for the future.                                      |                 |
+|  6 | ***[Added documentation need for running development builds #3798](https://github.com/qutebrowser/qutebrowser/issues/3795)*** |                                               Issue submitted by us after finding difficulty in setting up development environment. Pull request submitted.                                               | Completed, pull request submitted. See [#3798](https://github.com/qutebrowser/qutebrowser/pull/3798) |      Rokney     |
+|  7 |   ***[Tab-take should not show the tabs in current window #3800](https://github.com/qutebrowser/qutebrowser/issues/3800)***   |                                     Issue identified and submitted by us when testing features. Wanted to work on it, but the maintainers said it was a bug they should fix and self-assigned.                                     |                                   Never got to work on.                                   |                 |
+|  8 |         ***[Documentation - Ubuntu 16.04 LTS and Tox #3799](https://github.com/qutebrowser/qutebrowser/issues/3799)***        |                                                                                Issue identified and submitted. Pull request submitted by Álvaro.                                                                               | Completed, pull request submitted. See [#3820](https://github.com/qutebrowser/qutebrowser/pull/3820) |      Álvaro     |
+|  9 |        **[Feature Request: Bind number row keys to tabs #3817](https://github.com/qutebrowser/qutebrowser/issues/3817)        |                         Suggested by Rokney, wanted to work on it, but it turned out the maintainers didn't think it was a recommended feature. As a result, no work was done on it, and issue was closed.                         |                                               Non-issue                                              |                 |
+| 10 |                        [Marking suspended tabs](https://github.com/qutebrowser/qutebrowser/issues/3600)                       |                                Seemed like an interesting fix, started to work on it, but other people claimed , and then the original claimer came back after being idle.                                 |                                              Abandoned.                                              |      Julian     |
 
 Commits:
 https://github.com/nyu-ossd-s18/qutebrowser/commit/e44a119c6222f76ee39ef1db9b31c21086c180f2
@@ -39,7 +32,8 @@ https://github.com/nyu-ossd-s18/qutebrowser/commit/0eb85b0d142a8ce08925988f54068
 https://github.com/nyu-ossd-s18/qutebrowser/commit/feb2f99ea9c73d51a275dbaa8adfab4b72c7a24d
 https://github.com/nyu-ossd-s18/qutebrowser/commit/1dbbef49d44335f9363aed36b1d02cf6a22ee583
 
-Pull Requests:
-[Solves #3827](https://github.com/qutebrowser/qutebrowser/pull/3827)
-[Solves #3795](https://github.com/qutebrowser/qutebrowser/pull/3798)
-[Solves #3799](https://github.com/qutebrowser/qutebrowser/pull/3820)
+|                             ﻿Pull Request                             |                              Solves                              | Submitted by |
+|:--------------------------------------------------------------------:|:----------------------------------------------------------------:|:------------:|
+| [Solves #3827](https://github.com/qutebrowser/qutebrowser/pull/3827) |  [#3810](https://github.com/qutebrowser/qutebrowser/issues/3810) |    Wentao    |
+| [Solves #3795](https://github.com/qutebrowser/qutebrowser/pull/3798) |  [#3795](https://github.com/qutebrowser/qutebrowser/issues/3795) |    Rokney    |
+| [Solves #3799](https://github.com/qutebrowser/qutebrowser/pull/3820) | [#3799](https://github.com/qutebrowser/qutebrowser/issues/3799) |    Álvaro    |
