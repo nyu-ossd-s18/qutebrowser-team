@@ -1,6 +1,6 @@
 The team has been bad about pushing commits / keeping this up-to-date, sorry! Have project to do, will add more/fix up later.
 
-Issues worked on:
+# Issues worked on:
 
 |  ﻿  |                                                             Issue                                                             |                                                                                                               Comment                                                                                                              |                                                Result                                                |    Worked on    |
 |:--:|:-----------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:---------------:|
@@ -15,25 +15,32 @@ Issues worked on:
 |  9 |        **[Feature Request: Bind number row keys to tabs #3817](https://github.com/qutebrowser/qutebrowser/issues/3817)        |                         Suggested by Rokney, wanted to work on it, but it turned out the maintainers didn't think it was a recommended feature. As a result, no work was done on it, and issue was closed.                         |                                               Non-issue                                              |                 |
 | 10 |                        [Marking suspended tabs](https://github.com/qutebrowser/qutebrowser/issues/3600)                       |                                Seemed like an interesting fix, started to work on it, but other people claimed , and then the original claimer came back after being idle.                                 |                                              Abandoned.                                              |      Julian     |
 
-Commits:
-https://github.com/nyu-ossd-s18/qutebrowser/commit/e44a119c6222f76ee39ef1db9b31c21086c180f2
-https://github.com/nyu-ossd-s18/qutebrowser/commit/4acd09554e65fc4819872b02a70641032fa641fb
-https://github.com/nyu-ossd-s18/qutebrowser/commit/891625c996068630782bcef8fd7e431edd460aba
-https://github.com/nyu-ossd-s18/qutebrowser/commit/e027779416caf3b606616267fe8b6506adfeffe4
-https://github.com/nyu-ossd-s18/qutebrowser/commit/9272b48edd42509693ad8f4502e30a2191d3aaae
-https://github.com/nyu-ossd-s18/qutebrowser/commit/ad1b7211c2f8dc756497f819c751dd98ef4298aa
-https://github.com/nyu-ossd-s18/qutebrowser/commit/517a3f23008012b2760102bbcb87706e9d1c4fff
-https://github.com/nyu-ossd-s18/qutebrowser/commit/b73641560512e494d82722311c7fa7022c0e0ca6
-https://github.com/nyu-ossd-s18/qutebrowser/commit/cfe17624f318b58fcc8ee9f787a8f8f8226a9cae
-https://github.com/nyu-ossd-s18/qutebrowser/commit/f820a926eb3ecaa391d82c648d73b7362c9df874
-https://github.com/nyu-ossd-s18/qutebrowser/commit/2003e8507bde0d2807e8e30298dc9fda9757245a
-https://github.com/nyu-ossd-s18/qutebrowser/commit/66191930de96eb1aad1f954ecff043377b60e762
-https://github.com/nyu-ossd-s18/qutebrowser/commit/0eb85b0d142a8ce08925988f54068082f31c9874
-https://github.com/nyu-ossd-s18/qutebrowser/commit/feb2f99ea9c73d51a275dbaa8adfab4b72c7a24d
-https://github.com/nyu-ossd-s18/qutebrowser/commit/1dbbef49d44335f9363aed36b1d02cf6a22ee583
 
+# Pull Requests
 |                             ﻿Pull Request                             |                              Solves                              | Submitted by |
 |:--------------------------------------------------------------------:|:----------------------------------------------------------------:|:------------:|
 | [Solves #3827](https://github.com/qutebrowser/qutebrowser/pull/3827) |  [#3810](https://github.com/qutebrowser/qutebrowser/issues/3810) |    Wentao    |
 | [Solves #3795](https://github.com/qutebrowser/qutebrowser/pull/3798) |  [#3795](https://github.com/qutebrowser/qutebrowser/issues/3795) |    Rokney    |
 | [Solves #3799](https://github.com/qutebrowser/qutebrowser/pull/3820) | [#3799](https://github.com/qutebrowser/qutebrowser/issues/3799) |    Álvaro    |
+
+# Commits
+
+| ﻿Author |                                           Commits                                           |
+|:------:|:-------------------------------------------------------------------------------------------:|
+| Julian | https://github.com/nyu-ossd-s18/qutebrowser/commit/671956075e93c756effcc953b68b7929870910a6 |
+|        | https://github.com/nyu-ossd-s18/qutebrowser/commit/4acd09554e65fc4819872b02a70641032fa641fb |
+|        | https://github.com/nyu-ossd-s18/qutebrowser/commit/891625c996068630782bcef8fd7e431edd460aba |
+|  Juan  | https://github.com/nyu-ossd-s18/qutebrowser/commit/ad1b7211c2f8dc756497f819c751dd98ef4298aa |
+|        | https://github.com/nyu-ossd-s18/qutebrowser/commit/517a3f23008012b2760102bbcb87706e9d1c4fff |
+|        | https://github.com/nyu-ossd-s18/qutebrowser/commit/f820a926eb3ecaa391d82c648d73b7362c9df874 |
+| Wentao | https://github.com/nyu-ossd-s18/qutebrowser/commit/0eb85b0d142a8ce08925988f54068082f31c9874 |
+|        | https://github.com/nyu-ossd-s18/qutebrowser/commit/2003e8507bde0d2807e8e30298dc9fda9757245a |
+|        | https://github.com/nyu-ossd-s18/qutebrowser/commit/44dc1fb9ed3d2f03e6e9d1a55a5a7b50c6101e9e |
+| Rokney | https://github.com/nyu-ossd-s18/qutebrowser/commit/5a6bba56f9ada7162328ff10465bfb167a9f1dd9 |
+|        | https://github.com/nyu-ossd-s18/qutebrowser/commit/1702d665ec49c678fd50c078a326fb2a49985686 |
+|        | https://github.com/nyu-ossd-s18/qutebrowser/commit/8ee82e6c316c9cf39348bb3810f1058606579098 |
+|        | https://github.com/nyu-ossd-s18/qutebrowser/commit/301878776609a35677d8cd87cdc4d1a08c8f0690 |
+|        | https://github.com/nyu-ossd-s18/qutebrowser/commit/3392680ad807056ef98ab9971454d8b2778fea01 |
+|        | https://github.com/nyu-ossd-s18/qutebrowser/commit/78645bddbc88b2f44109f4b327f9ee8f1a7b43d2 |
+|        | https://github.com/nyu-ossd-s18/qutebrowser/commit/caf1b7c81cefa25d9fdf90dd0d7bfd68550748ab |
+| Álvaro | https://github.com/nyu-ossd-s18/qutebrowser/commit/feb2f99ea9c73d51a275dbaa8adfab4b72c7a24d |
